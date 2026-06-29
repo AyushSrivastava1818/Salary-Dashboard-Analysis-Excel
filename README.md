@@ -66,17 +66,17 @@ The objective of this project is to:
 
 ## 📸 Dashboard Preview
 
-### Dashboard
+<h2>📸 Dashboard Preview</h2>
 
+<h3>Dashboard</h3>
+<p align="center">
+  <img src="./images/dashboard.png" width="900">
+</p>
 
-![Dashboard](./images/dashboard.png)
-
-
-### Dataset
-
-
-![Dataset](./images/dataset.png)
-
+<h3>Dataset</h3>
+<p align="center">
+  <img src="./images/dataset.png" width="900">
+</p>
 
 ---
 
