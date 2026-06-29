@@ -71,7 +71,7 @@ The objective of this project is to:
 Add your dashboard screenshot here.
 
 ```md
-![Dashboard](images/dashboard.png)
+![Dashboard](./images/dashboard.png)
 ```
 
 ### Dataset
@@ -79,7 +79,7 @@ Add your dashboard screenshot here.
 Add your dataset screenshot here.
 
 ```md
-![Dataset](images/dataset.png)
+![Dataset](./images/dataset.png)
 ```
 
 ---
