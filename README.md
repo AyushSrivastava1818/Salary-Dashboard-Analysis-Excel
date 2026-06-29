@@ -64,8 +64,6 @@ The objective of this project is to:
 
 ---
 
-## 📸 Dashboard Preview
-
 <h2>📸 Dashboard Preview</h2>
 
 <h3>Dashboard</h3>
