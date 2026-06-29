@@ -68,19 +68,15 @@ The objective of this project is to:
 
 ### Dashboard
 
-Add your dashboard screenshot here.
 
-```md
 ![Dashboard](./images/dashboard.png)
-```
+
 
 ### Dataset
 
-Add your dataset screenshot here.
 
-```md
 ![Dataset](./images/dataset.png)
-```
+
 
 ---
 
